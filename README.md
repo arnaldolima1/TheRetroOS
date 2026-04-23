@@ -99,7 +99,7 @@ Tudo isso em uma interface fluida, navegável por controle e otimizada para uso 
 - [ ] Pipeline avançado de identificação de ROMs por hash
 - [ ] Sincronização em nuvem
 - [ ] Sistema de plugins
-- [ ] Melhor suporte a gamepad no modo Big Picture
+- [ ] Melhor suporte a gamepad
 
 ---
 
