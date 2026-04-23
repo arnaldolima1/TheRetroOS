@@ -1,7 +1,7 @@
 # RetroOS
 
 <p align="center">
-  <img src="public/retro-os-icon.png" width="120" />
+  <img src="docs/screenshots/retro-os-icon.png" width="120" />
 </p>
 
 <p align="center">
