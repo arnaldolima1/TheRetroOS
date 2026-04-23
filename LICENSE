@@ -1,21 +1,24 @@
-MIT License
+RetroOS
+Licença de Uso Não Comercial
 
 Copyright (c) 2026 Arnaldo Lima
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este software é fornecido para uso pessoal e não comercial.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permissões:
+- É permitido usar o software livremente para fins pessoais.
+- É permitido estudar, modificar e adaptar o código-fonte.
+- É permitido compartilhar o projeto original, desde que seja mantida a atribuição ao autor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Restrições:
+- Não é permitido vender, sublicenciar ou explorar comercialmente este software, no todo ou em parte.
+- Não é permitido redistribuir versões modificadas com fins comerciais.
+- O uso comercial requer autorização prévia e por escrito do autor.
+
+Direitos autorais:
+- Este software permanece como propriedade intelectual do autor.
+- Todos os avisos de autoria devem ser mantidos.
+
+Isenção de garantia:
+Este software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo.
+Em nenhuma hipótese o autor será responsável por quaisquer danos decorrentes do uso ou da impossibilidade de uso do software.
